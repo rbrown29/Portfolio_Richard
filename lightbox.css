@@ -7,7 +7,7 @@
     background-color: white;
 }
 
-@media only all and (max-width: 768px) {
+@media only all and (max-width: 828px) {
     .carousel-inner {
         height: 50%;
     }

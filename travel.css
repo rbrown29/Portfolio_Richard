@@ -47,7 +47,7 @@ button {
     background-color: #212529;
 }
 
-@media only all and (max-width: 768px) {
+@media only all and (max-width: 828px) {
     body {
         margin: 0;
         font-family: sans-serif;
