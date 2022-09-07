@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: #212529 !important;
+}
+
+.div{
+    display: flex;
+    align-items: center;
+}
+
+header {
+    /* background-image: url('https://thumbs.dreamstime.com/b/word-travel-beach-15534338.jpg');*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #212529 !important;
+}
+
+a {
+    color: white;
+    background-color: white;
+}
+
+footer {
+    background-color: #212529;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-family: 'Rancho', serif;
+    font-size: 150px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+button {
+    background-color: #212529;
+    color: white;
+}
+.home_link{
+    color: white;
+    background-color: #212529;
+}
