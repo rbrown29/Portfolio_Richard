@@ -7,9 +7,9 @@ body {
 .div{
     display: flex;
     flex-direction: column;
-    float: right;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
     
 }
 
