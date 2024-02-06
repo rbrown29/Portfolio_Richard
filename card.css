@@ -159,6 +159,6 @@ footer {
 
 @media screen and  (max-width: 320px) {
   header h1 {
-    font-size: .5rem;
+    display: none;
   }
 }
