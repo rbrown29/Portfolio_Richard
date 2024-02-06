@@ -156,3 +156,9 @@ footer {
     font-size: 0.9rem;
   }
 }
+
+@media  (max-width: 320px) {
+  header {
+    font-size: x-small;
+  }
+}
