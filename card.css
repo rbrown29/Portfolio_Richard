@@ -31,12 +31,6 @@ h1 {
   text-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-@media screen and (max-width: 320px) {
-  header h1 {
-    display: none;
-  }
-}
-
 
 .container {
   position: relative;
@@ -161,6 +155,10 @@ footer {
 
   .container .custom-card .custom-content a {
     font-size: 0.9rem;
+  }
+
+  header h1 {
+    display: none;
   }
 }
 
