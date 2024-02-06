@@ -158,7 +158,7 @@ footer {
 }
 
 @media  (max-width: 320px) {
-  header {
-    font-size: x-small;
+  header h1 {
+    font-size: 1.5rem;
   }
 }
