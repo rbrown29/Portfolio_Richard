@@ -31,7 +31,7 @@ h1 {
   text-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 390px) {
   header h1 {
     display: none;
   }
