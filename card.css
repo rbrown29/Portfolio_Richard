@@ -138,6 +138,16 @@ footer {
   font-size: 1.5rem;
 }
 
+.linked {
+  margin-right: 2rem;
+  cursor: url("https://img.icons8.com/material/24/FFFFFF/hand-cursor--v1.png"), auto;
+}
+
+.github {
+  margin-left: 2rem;
+  cursor: url("https://img.icons8.com/material/24/FFFFFF/hand-cursor--v1.png"), auto;
+}
+
 @media (max-width: 480px) {
   .container .custom-card {
     width: 230px;
@@ -158,6 +168,12 @@ footer {
   }
 
   header h1 {
+    display: none;
+  }
+  footer .linked {
+    display: none;
+  }
+  footer .github {
     display: none;
   }
 }
